@@ -66,7 +66,7 @@ focusboard/
 Requirements: Node.js and npm.
 
 ```powershell
-cd "C:\Users\keran\OneDrive\Desktop\focusboard\focusboard"
+cd "C:\Users\Desktop\focusboard"
 npm install
 ```
 
@@ -150,7 +150,7 @@ The interface supports desktop, tablet, and mobile layouts:
 Hosted application URL:
 
 ```text
-Add the final HTTPS deployment URL here.
+https://focusboard-t3co.netlify.app
 ```
 
 The recommended deployment option is Vercel or Netlify.
@@ -160,16 +160,8 @@ The recommended deployment option is Vercel or Netlify.
 GitHub repository URL:
 
 ```text
-Add the final public GitHub repository URL here.
+https://github.com/eranna99/focusboard
 ```
-
-## Screenshots
-
-Before final submission, add:
-
-- `screenshots/focusboard-desktop.png`
-- `screenshots/focusboard-mobile.png`
-
 ## Known Limitations
 
 - Task data is stored in the current browser only and is not shared across devices.
